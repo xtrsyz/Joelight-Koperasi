@@ -1,0 +1,17 @@
+Module1 = 66, 87, 533, 512, C
+Pemakai = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Login = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Menu = 0, 0, 0, 0, C, 50, 50, 637, 367, C
+MataKuliah = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+UpdateMaster = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CetakBerkas = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CetakDataHer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CetakNilaiHer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CetakNilaiSemester = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CetakNilaiTranskrip = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DaftarHer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+EntriNilaiHer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+OlahNilai2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+TransferMhs = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Mahasiswa = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Dosen = 0, 0, 0, 0, C, 0, 0, 0, 0, C

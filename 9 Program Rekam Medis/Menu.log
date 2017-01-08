@@ -1,0 +1,27 @@
+Line 16: Class Crystal.CrystalReport of control CR was not a loaded control class.
+Line 24: Class MSComctlLib.ImageList of control IMG was not a loaded control class.
+Line 78: Class MSComctlLib.Toolbar of control TLBar was not a loaded control class.
+Line 137: Class MSComctlLib.StatusBar of control STBar was not a loaded control class.
+Line 19: The property name _ExtentX in CR is invalid.
+Line 20: The property name _ExtentY in CR is invalid.
+Line 21: The property name _Version in CR is invalid.
+Line 22: The property name PrintFileLinesPerPage in CR is invalid.
+Line 27: The property name _ExtentX in IMG is invalid.
+Line 28: The property name _ExtentY in IMG is invalid.
+Line 30: The property name ImageWidth in IMG is invalid.
+Line 31: The property name ImageHeight in IMG is invalid.
+Line 32: The property name MaskColor in IMG is invalid.
+Line 33: The property name _Version in IMG is invalid.
+Line 76: The property name Images in IMG is invalid.
+Line 85: The property name _ExtentX in TLBar is invalid.
+Line 86: The property name _ExtentY in TLBar is invalid.
+Line 87: The property name ButtonWidth in TLBar is invalid.
+Line 88: The property name ButtonHeight in TLBar is invalid.
+Line 90: The property name Style in TLBar is invalid.
+Line 91: The property name ImageList in TLBar is invalid.
+Line 92: The property name _Version in TLBar is invalid.
+Line 135: The property name Buttons in TLBar is invalid.
+Line 144: The property name _ExtentX in STBar is invalid.
+Line 145: The property name _ExtentY in STBar is invalid.
+Line 146: The property name _Version in STBar is invalid.
+Line 155: The property name Panels in STBar is invalid.
